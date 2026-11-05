@@ -13,4 +13,4 @@ M.S. **Information Security & Privacy** candidate at **The University of Texas a
 ### Focus areas
 `Detection Engineering` · `Threat Intelligence` · `SIEM (Wazuh, Security Onion)` · `MITRE ATT&CK` · `Sigma` · `Active Directory` · `AI Agent Security`
 
-📫 [LinkedIn](https://www.linkedin.com/)
+📫 [LinkedIn](https://www.linkedin.com/in/mark-lambert-7121a1208/)
