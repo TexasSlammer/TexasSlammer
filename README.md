@@ -1,6 +1,6 @@
 ## Hi, I'm Mark 👋
 
-M.S. **Information Security & Privacy** candidate at **The University of Texas at Austin**, focused on detection engineering, threat intelligence, and securing AI agent tooling.
+Graduate candidate at **The University of Texas at Austin**, focused on detection engineering, threat intelligence, and securing AI agent tooling.
 
 I engineer detections and prove they work. Cloud identity attack-path analysis, Sigma/SIEM detection engineering, and upstream security research. Every number below is reproducible from the linked repo.
 
